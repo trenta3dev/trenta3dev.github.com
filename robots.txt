@@ -1,4 +1,0 @@
-User-agent: *
-Disallow: 
-
-Sitemap: http://trenta3dev.github.com/sitemap.xml 
