@@ -1,46 +1,56 @@
 {
-    "timeline": {
-        "type": "default",
-        "startDate": "2012,1,26",
-        "date": [
+    "timeline":{
+        "type":"default",
+        "startDate":"2012,1,26",
+        "date":[
             {
-                "startDate": "2012,11,13",
-                "headline": "Android application development basic concepts",
-                "text": "<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.<br><a href=\"https://speakerdeck.com/nicofromspace/android-application-development-basic-concepts\">slide</a></p>",
-                "asset": {
-                    "media": "https://fbcdn-sphotos-c-a.akamaihd.net/hphotos-ak-snc6/200529_4987810614227_628239738_n.jpg",
-                    "credit": "",
-                    "caption": ""
+                "startDate":"2012,11,13",
+                "headline":"Android application development basic concepts",
+                "text":"<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.<br><a href=\"https://speakerdeck.com/nicofromspace/android-application-development-basic-concepts\">slide</a></p>",
+                "asset":{
+                    "media":"https://fbcdn-sphotos-c-a.akamaihd.net/hphotos-ak-snc6/200529_4987810614227_628239738_n.jpg",
+                    "credit":"",
+                    "caption":""
                 }
             },
             {
-                "startDate": "2012,11,13",
-                "headline": "Redis",
-                "text": "<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>",
-                "asset": {
-                    "media": "https://fbcdn-sphotos-g-a.akamaihd.net/hphotos-ak-ash4/207944_1037420339573_9417_n.jpg",
-                    "credit": "",
-                    "caption": ""
+                "startDate":"2012,11,13",
+                "headline":"Redis",
+                "text":"<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>",
+                "asset":{
+                    "media":"https://fbcdn-sphotos-g-a.akamaihd.net/hphotos-ak-ash4/207944_1037420339573_9417_n.jpg",
+                    "credit":"",
+                    "caption":""
                 }
             },
             {
-                "startDate": "2012,12,11",
-                "headline": "Best Bad practices for web development: a practical approach",
-                "text": "<p>Prendendo come esempio una reale applicazione web che ci è stata data  da testare per un corso all'università vedremo una breve carrellata di  bad practices e cose che ogni developer non dovrebbe mai fare quando  scrive codice.</p>",
-                "asset": {
-                    "media": "https://fbcdn-sphotos-d-a.akamaihd.net/hphotos-ak-snc7/576147_337516592998322_1553811779_n.jpg",
-                    "credit": "",
-                    "caption": ""
+                "startDate":"2012,12,11",
+                "headline":"Best Bad practices for web development: a practical approach",
+                "text":"<p>Prendendo come esempio una reale applicazione web che ci è stata data  da testare per un corso all'università vedremo una breve carrellata di  bad practices e cose che ogni developer non dovrebbe mai fare quando  scrive codice.</p>",
+                "asset":{
+                    "media":"https://fbcdn-sphotos-d-a.akamaihd.net/hphotos-ak-snc7/576147_337516592998322_1553811779_n.jpg",
+                    "credit":"",
+                    "caption":""
                 }
             },
             {
-                "startDate": "2012,12,11",
-                "headline": "The evolution of CSS",
-                "text": "<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.<br><a href=\"https://speakerdeck.com/nostalgia/the-evolution-of-css\">slide</a></p>",
-                "asset": {
-                    "media": "https://fbcdn-sphotos-e-a.akamaihd.net/hphotos-ak-prn1/38668_1454335412076_5228427_n.jpg",
-                    "credit": "",
-                    "caption": ""
+                "startDate":"2012,12,11",
+                "headline":"The evolution of CSS",
+                "text":"<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.<br><a href=\"https://speakerdeck.com/nostalgia/the-evolution-of-css\">slide</a></p>",
+                "asset":{
+                    "media":"https://fbcdn-sphotos-e-a.akamaihd.net/hphotos-ak-prn1/38668_1454335412076_5228427_n.jpg",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+            {
+                "startDate":"2013,01,16",
+                "headline":"Una serata un po' speciale",
+                "asset":
+                {
+                    "media":"<blockquote>La serata sarà composta 3 lightning talks<ul><li>Aaron Ciaghi: From 0 to Scrum in Mozambique (with Planning Poker)</li><li>Stefano Parmesan: signals in Django</li><li>Andrea Nodari: method missing in Ruby</li></ul>... e una talk di normale durata<ul><li>Michele Di Cosmo && Lorenzo Dematté: Panoramica dell'ambiente .NET</li></ul></blockquote>",
+                    "credit":"",
+                    "caption":""
                 }
             }
         ]

@@ -10,8 +10,25 @@
     <style>
         html, body {
             height: 100%;
-            padding: 0px;
-            margin: 0px;
+            padding: 0;
+            margin: 0;
+        }
+        header h1 {
+            text-align: center;
+            font-family: "Georgia",Times New Roman,Times,serif;
+            font-size: 70px;
+            line-height: 72px;
+            font-weight: 200;
+        }
+        .plain-text-quote > blockquote > ul {
+            padding-left: 50px;
+            font-size: 28px;
+            line-height: 36px;
+        }
+
+        .plain-text-quote > blockquote > ul > li {
+            font-size: 28px;
+            line-height: 36px;
         }
     </style>
     <!-- HTML5 shim, for IE6-8 support of HTML elements--><!--[if lt IE 9]>
@@ -20,17 +37,23 @@
 </head>
 </html>
 <body>
+<header>
+   <h1>trenta3dev</h1>
+</header>
 <div id="timeline-embed"></div>
-<script type="text/javascript">
+
+
+<script>
     var timeline_config = {
-        width: "100%",
-        height: "100%",
-        start_at_end: true,
-        start_zoom_adjust: '-3',
-        source: '/data/timeline_data.json',
-        css: '/stylesheets/timeline.css',
-        js: '/javascripts/timeline-min.js'
+        width:"100%",
+        height:"700",
+        start_at_end:true,
+        start_zoom_adjust: '0',
+        source:'/data/timeline_data.json',
+        css:'/stylesheets/timeline.css',
+        js:'/javascripts/timeline-min.js'
     }
 </script>
+
 <script type="text/javascript" src="/javascripts/storyjs-embed.js"></script>
 </body>
