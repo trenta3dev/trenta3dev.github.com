@@ -4,6 +4,11 @@ html, body {
     margin: 0;
 }
 
+a {
+    text-decoration: none !important;
+    color: #424242 !important;
+}
+
 header h1 {
     text-align: center;
     font-family: "Georgia",Times New Roman,Times,serif;
@@ -12,11 +17,6 @@ header h1 {
     font-weight: 200;
     margin-top: 40px;
     margin-bottom: 40px;
-}
-
-a {
-    text-decoration: none;
-    color: #333;
 }
 
 .plain-text-quote > blockquote > ul {
@@ -37,12 +37,8 @@ a {
 
 .bottom {
     margin-top: 60px;
-    display: table;
 
     section {
-        width: 31%;
-        float: left;
-        margin-left: 20px;
         font-family: "Georgia";
     }
 
