@@ -1,0 +1,58 @@
+{
+    "timeline":{
+        "type":"default",
+        "startDate":"2012,1,26",
+        "date":[
+            {
+                "startDate":"2012,11,13",
+                "headline":"Android application development basic concepts",
+                "text":"<p><small>di Nicola Perantoni</small></p><p><a href=\"https://speakerdeck.com/nicofromspace/android-application-development-basic-concepts\">Slides</a></p>",
+                "asset":{
+                    "media":"https://fbcdn-sphotos-c-a.akamaihd.net/hphotos-ak-snc6/200529_4987810614227_628239738_n.jpg",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+            {
+                "startDate":"2012,11,13",
+                "headline":"Introduzione a Redis",
+                "text":"<p><small>di Davide Setti</small></p>",
+                "asset":{
+                    "media":"https://fbcdn-sphotos-g-a.akamaihd.net/hphotos-ak-ash4/207944_1037420339573_9417_n.jpg",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+            {
+                "startDate":"2012,12,11",
+                "headline":"Best Bad practices for web development: a practical approach",
+                "text":"<p><small>di Federico Scrinzi</small></p><p>Prendendo come esempio una reale applicazione web vedremo una breve carrellata di bad practices e cose che ogni developer non dovrebbe mai fare quando scrive codice... se no poi se ne pente!</p>",
+                "asset":{
+                    "media":"https://fbcdn-sphotos-e-a.akamaihd.net/hphotos-ak-ash3/551900_4105126339602_2012303475_n.jpg",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+            {
+                "startDate":"2012,12,11",
+                "headline":"The evolution of CSS",
+                "text":"<p><small>di Mattia Larentis</small></p><p>Un viaggio nella storia dei CSS, dagli albori a CSS3 passando per LESS, SASS e altri CSS preprocessors.</p><p><a href=\"https://speakerdeck.com/nostalgia/the-evolution-of-css\">Slides</a></p>",
+                "asset":{
+                    "media":"https://fbcdn-sphotos-e-a.akamaihd.net/hphotos-ak-prn1/38668_1454335412076_5228427_n.jpg",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+            {
+                "startDate":"2013,01,16",
+                "headline":"Una serata un po' speciale",
+                "asset":
+                {
+                    "media":"<blockquote>La serata sarà composta 3 lightning talks<ul><li>Aaron Ciaghi: From 0 to Scrum in Mozambique (with Planning Poker)</li><li>Roberto Bampi && Davide Kirchner: signals in Django</li><li>Andrea Nodari: method missing in Ruby</li></ul>... e una talk di normale durata<ul><li>Michele Di Cosmo && Lorenzo Dematté: Panoramica dell'ambiente .NET</li></ul></blockquote>",
+                    "credit":"",
+                    "caption":""
+                }
+            }
+        ]
+    }
+}
