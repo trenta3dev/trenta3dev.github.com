@@ -73,3 +73,25 @@ footer {
 .text-center {
     text-align: center;
 }
+
+.timeline-html div {
+    text-align: center;
+    margin-top: 20px;
+    h3.one-line {
+        line-height: 60px;
+    }
+    > span {
+        font-size: 16px;
+        line-height: 18px;
+        color: #666666;
+        display: block;
+    }
+    img {
+        margin: 10px 0;
+        width: 100px;
+        height: 100px;
+    }
+    img + img {
+        margin-left: 5px;
+    }
+}
