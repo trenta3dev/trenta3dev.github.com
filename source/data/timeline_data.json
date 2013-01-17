@@ -66,9 +66,9 @@
             {
                 "startDate":"2013,01,16",
                 "headline":"Signals in Django",
-                "text":"<p><small>di Roberto Bampi</small></p>",
+                "text":"<p><small>di Roberto Bampi</small></p><p>A (very) short and quick introduction on the use of signals in django.</p><p><a href=\"https://speakerdeck.com/gigaroby/signals-in-django/\" target=\"_blank\">Slides</a></p>",
                 "asset":{
-                    "media":"https://fbcdn-sphotos-c-a.akamaihd.net/hphotos-ak-ash4/389637_3910127794339_90036356_n.jpg",
+                    "media":"https://lh6.googleusercontent.com/-FqAJliPoRog/Ti7Sv8oBfuI/AAAAAAAAADs/AWC_pX1a95E/s915/IMGP1453.jpg",
                     "credit":"",
                     "caption":""
                 }
