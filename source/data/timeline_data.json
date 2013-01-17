@@ -45,10 +45,59 @@
             },
             {
                 "startDate":"2013,01,16",
-                "headline":"Una serata un po' speciale",
-                "asset":
-                {
-                    "media":"<blockquote class=\"row-fluid timeline-html\"><div class=\"span3\"><h3 class=\"one-line\">Aaron Ciaghi</h3><img src=\"http://bit.ly/WIXYPQ\" /><span>From 0 to Scrum in Mozambique (with Planning Poker)</span></div><div class=\"span3\"><h3>Roberto Bampi<br />Davide Kirchner</h3><img src=\"http://robohash.org/Roberto Bampi?set=set2\" /><img src=\"http://robohash.org/Davide Kirchner?set=set2\" /><span>Signals in Django</span></div><div class=\"span3\"><h3 class=\"one-line\">Andrea Nodari</h3><img src=\"http://bit.ly/UPUiMg\" /><span>Method missing in Ruby</span></div><div class=\"span3\"><h3>Michele Di Cosmo<br />Lorenzo Dematt&eacute;</h3><img src=\"http://bit.ly/WIYc9p\" /><img src=\"http://robohash.com/Lorenzo Dematte?set=set2\" /><span>Panoramica dell'ambiente .NET</p></div></blockquote>",
+                "headline":"From 0 to Scrum in Mozambique (with Planning Poker)",
+                "text":"<p><small>di Aaron Ciaghi</small></p>",
+                "asset":{
+                    "media":"https://fbcdn-sphotos-c-a.akamaihd.net/hphotos-ak-prn1/17926_10200207435169519_1337974909_n.jpg",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+            {
+                "startDate":"2013,01,16",
+                "headline":"Method missing in Ruby",
+                "text":"<p><small>di Andrea Nodari</small></p>",
+                "asset":{
+                    "media":"https://fbcdn-profile-a.akamaihd.net/hprofile-ak-ash3/551018_4873829362675_1854429130_n.jpg",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+            {
+                "startDate":"2013,01,16",
+                "headline":"Signals in Django",
+                "text":"<p><small>di Roberto Bampi</small></p>",
+                "asset":{
+                    "media":"https://fbcdn-sphotos-c-a.akamaihd.net/hphotos-ak-ash4/389637_3910127794339_90036356_n.jpg",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+            {
+                "startDate":"2013,01,16",
+                "headline":"Panoramica dell'ambiente .NET - Parte 1",
+                "text":"<p><small>di Lorenzo Dematté</small></p>",
+                "asset":{
+                    "media":"",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+            {
+                "startDate":"2013,01,16",
+                "headline":"Panoramica dell'ambiente .NET - Parte 2",
+                "text":"<p><small>di Michele Di Cosmo</small></p>",
+                "asset":{
+                    "media":"https://fbcdn-sphotos-g-a.akamaihd.net/hphotos-ak-prn1/527417_100490443449059_1526522412_n.jpg",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+            {
+                "startDate":"2013,02,06",
+                "headline":"Quarta Serata",
+                "asset":{
+                    "media":"<blockquote class=\"row-fluid timeline-html\"><div class=\"span6\"><h3 class=\"one-line\">??</h3><img src=\"\" /><span>??</span></div><div class=\"span6\"><h3 class=\"one-line\">??</h3><img src=\"\" /><span>??</span></div></blockquote>",
                     "credit":"",
                     "caption":""
                 }
