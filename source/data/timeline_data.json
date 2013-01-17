@@ -6,7 +6,7 @@
             {
                 "startDate":"2012,11,13",
                 "headline":"Android application development basic concepts",
-                "text":"<p><small>di Nicola Perantoni</small></p><p><a href=\"https://speakerdeck.com/nicofromspace/android-application-development-basic-concepts\">Slides</a></p>",
+                "text":"<p><small>di Nicola Perantoni</small></p><p><a href=\"https://speakerdeck.com/nicofromspace/android-application-development-basic-concepts\" target=\"_blank\">Slides</a></p>",
                 "asset":{
                     "media":"https://fbcdn-sphotos-c-a.akamaihd.net/hphotos-ak-snc6/200529_4987810614227_628239738_n.jpg",
                     "credit":"",
@@ -36,7 +36,7 @@
             {
                 "startDate":"2012,12,11",
                 "headline":"The evolution of CSS",
-                "text":"<p><small>di Mattia Larentis</small></p><p>Un viaggio nella storia dei CSS, dagli albori a CSS3 passando per LESS, SASS e altri CSS preprocessors.</p><p><a href=\"https://speakerdeck.com/nostalgia/the-evolution-of-css\">Slides</a></p>",
+                "text":"<p><small>di Mattia Larentis</small></p><p>Un viaggio nella storia dei CSS, dagli albori a CSS3 passando per LESS, SASS e altri CSS preprocessors.</p><p><a href=\"https://speakerdeck.com/nostalgia/the-evolution-of-css\" target=\"_blank\">Slides</a></p>",
                 "asset":{
                     "media":"https://fbcdn-sphotos-e-a.akamaihd.net/hphotos-ak-prn1/38668_1454335412076_5228427_n.jpg",
                     "credit":"",
@@ -46,9 +46,9 @@
             {
                 "startDate":"2013,01,16",
                 "headline":"From 0 to Scrum in Mozambique (with Planning Poker)",
-                "text":"<p><small>di Aaron Ciaghi</small></p>",
+                "text":"<p><small>di Aaron Ciaghi</small></p><p>Stimare user stories in modo divertente, poco ottimista e più accurato usando Planning Poker. Un riassunto della nostra esperienza di applicazione e training di Scrum in Mozambico.</p><p><a href=\"http://disi.unitn.it/~ciaghi/from_0_to_scrum/\" target=\"_blank\">Slides</a></p>",
                 "asset":{
-                    "media":"https://fbcdn-sphotos-c-a.akamaihd.net/hphotos-ak-prn1/17926_10200207435169519_1337974909_n.jpg",
+                    "media":"http://disi.unitn.it/~ciaghi/data/_uploaded/image/avatar_of_scotland.jpg",
                     "credit":"",
                     "caption":""
                 }
