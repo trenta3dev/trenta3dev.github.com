@@ -11,3 +11,21 @@
 @import "bootstrap-responsive";
 
 @import "base";
+
+a.underline:hover {
+  text-decoration: underline !important;
+}
+
+.bottom {
+  h1 {
+    text-align: center;
+  }
+  p {
+    font-size: 16px;
+    line-height: 26px;
+    text-align: justify;
+  }
+  .joinus p {
+    text-align: center;
+  }
+}
