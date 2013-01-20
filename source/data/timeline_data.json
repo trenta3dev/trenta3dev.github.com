@@ -56,7 +56,7 @@
             {
                 "startDate":"2013,01,16",
                 "headline":"Method missing in Ruby",
-                "text":"<p><small>di Andrea Nodari</small></p>",
+                "text":"<p><small>di Andrea Nodari</small></p><p>Method missing è uno strumento molto potente che ruby mette a dispone. Questa talk spiega portando alcuni esempi reali cosa è ecome può essere usato per semplificare e rendere elegante il nostro codice.</p><p><a href=\"http://nodo.github.com/presentations/method_missing.html\" target=\"_blank\">Slides</a></p>",
                 "asset":{
                     "media":"https://fbcdn-profile-a.akamaihd.net/hprofile-ak-ash3/551018_4873829362675_1854429130_n.jpg",
                     "credit":"",
