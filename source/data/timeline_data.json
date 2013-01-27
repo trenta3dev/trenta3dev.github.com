@@ -76,9 +76,9 @@
             {
                 "startDate":"2013,01,16",
                 "headline":"Panoramica dell'ambiente .NET - Parte 1",
-                "text":"<p><small>di Lorenzo Dematté</small></p>",
+                "text":"<p><small>di Lorenzo Dematté</small></p><p>Nella prima parte del talk vedremo cos'e' .NET: quali sono i componenti fondamentali che lo costituiscono, la sua storia, il modello di compilazione ed esecuzione che viene usato e le varie implementazioni, commerciali (Microsoft), opensource (Mono) e hardware (MicroFX e Netduino). Tramite un esempio, vedremo come vengano supportati diversi linguaggi (C# e F#), diversi paradigmi di programmazione (OO e funzionale) e come, tramite un linguaggio intermedio e dei metadati, il runtime riesca a integrare e gestire i diversi moduli .NET (gli \"assembly\").</p><p><a href=\"https://speakerdeck.com/ldematte/introduction-to-net\" target=\"_blank\">Slides</a></p>",
                 "asset":{
-                    "media":"",
+                    "media":"http://img191.imageshack.us/img191/9044/24444520.png",
                     "credit":"",
                     "caption":""
                 }
@@ -86,7 +86,7 @@
             {
                 "startDate":"2013,01,16",
                 "headline":"Panoramica dell'ambiente .NET - Parte 2",
-                "text":"<p><small>di Michele Di Cosmo</small></p>",
+                "text":"<p><small>di Michele Di Cosmo</small></p><p>Una velocissima introduzione ai componenti principali del framework .NET (WPF, WCF, WF e LINQ), al refactoring con Resharper di JetBrains e agli IDE Visual Studio e Expression Blend per la scrittura di codice e di interfacce grafiche.</p><p><a href=\"https://speakerdeck.com/micheledicosmo/introduzione-a-net-seconda-parte\" target=\"_blank\">Slides</a></p>",
                 "asset":{
                     "media":"https://fbcdn-sphotos-g-a.akamaihd.net/hphotos-ak-prn1/527417_100490443449059_1526522412_n.jpg",
                     "credit":"",
