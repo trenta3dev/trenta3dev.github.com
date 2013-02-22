@@ -98,21 +98,21 @@
                 "headline":"Trip to FOSDEM 2013",
                 "text":"<p><small>di Alberto Buratti e Nicola Perantoni</small></p><p>Un breve resoconto dell'esperienza al <a target='_blank' href='http://2013.fosdem.org/'>FOSDEM 2013</a>, il meeting europeo del mondo open source tenutosi a Bruxelles</p><p><a target='_blank' href='http://www.youtube.com/watch?v=Bo-GjsbpLV4'>Video</a></p>",
                 "asset":{
-                    "media":"https://fbcdn-sphotos-h-a.akamaihd.net/hphotos-ak-ash4/p206x206/481559_4815820146503_2116875025_n.jpg",
+                    "media":"https://fbcdn-sphotos-h-a.akamaihd.net/hphotos-ak-ash4/481559_4815820146503_2116875025_n.jpg",
                     "credit":"",
                     "caption":""
                 }
             },
             {
-                "startDate":"2012,12,11",
+                "startDate":"2013,02,06",
                 "headline":"Smashing the stack for fun and profit",
                 "text":"<p><small>di Federico Scrinzi</small></p><p>Spiegazione e dimostrazione pratica dello sfruttamento di un buffer overflow, prendendo come esempio i wargame di <a target='_blank' href='http://smashthestack.org'>SmashTheStack.org</a></p><p><a target='_blank' href='http://www.youtube.com/watch?v=8YEkCZ6swrc'>Video</a></p>",
                 "asset":{
-                    "media":"https://fbcdn-sphotos-d-a.akamaihd.net/hphotos-ak-ash3/p206x206/555290_407348769348437_1283508834_n.jpg",
+                    "media":"https://fbcdn-sphotos-d-a.akamaihd.net/hphotos-ak-ash3/555290_407348769348437_1283508834_n.jpg",
                     "credit":"",
                     "caption":""
                 }
-            },
+            }
         ]
     }
 }
