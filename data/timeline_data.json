@@ -1,0 +1,128 @@
+{
+    "timeline":{
+        "type":"default",
+        "startDate":"2012,1,26",
+        "date":[
+            {
+                "startDate":"2012,11,13",
+                "headline":"Android application development basic concepts",
+                "text":"<p><small>di Nicola Perantoni</small></p><p><a href=\"https://speakerdeck.com/nicofromspace/android-application-development-basic-concepts\" target=\"_blank\">Slides</a></p>",
+                "asset":{
+                    "media":"https://fbcdn-sphotos-c-a.akamaihd.net/hphotos-ak-snc6/200529_4987810614227_628239738_n.jpg",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+            {
+                "startDate":"2012,11,13",
+                "headline":"Introduzione a Redis",
+                "text":"<p><small>di Davide Setti</small></p>",
+                "asset":{
+                    "media":"https://fbcdn-sphotos-g-a.akamaihd.net/hphotos-ak-ash4/207944_1037420339573_9417_n.jpg",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+            {
+                "startDate":"2012,12,11",
+                "headline":"Best Bad practices for web development: a practical approach",
+                "text":"<p><small>di Federico Scrinzi</small></p><p>Prendendo come esempio una reale applicazione web vedremo una breve carrellata di bad practices e cose che ogni developer non dovrebbe mai fare quando scrive codice... se no poi se ne pente!</p>",
+                "asset":{
+                    "media":"https://fbcdn-sphotos-e-a.akamaihd.net/hphotos-ak-ash3/551900_4105126339602_2012303475_n.jpg",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+            {
+                "startDate":"2012,12,11",
+                "headline":"The evolution of CSS",
+                "text":"<p><small>di Mattia Larentis</small></p><p>Un viaggio nella storia dei CSS, dagli albori a CSS3 passando per LESS, SASS e altri CSS preprocessors.</p><p><a href=\"https://speakerdeck.com/nostalgia/the-evolution-of-css\" target=\"_blank\">Slides</a></p>",
+                "asset":{
+                    "media":"https://fbcdn-sphotos-e-a.akamaihd.net/hphotos-ak-prn1/38668_1454335412076_5228427_n.jpg",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+            {
+                "startDate":"2013,01,16",
+                "headline":"From 0 to Scrum in Mozambique (with Planning Poker)",
+                "text":"<p><small>di Aaron Ciaghi</small></p><p>Stimare user stories in modo divertente, poco ottimista e più accurato usando Planning Poker. Un riassunto della nostra esperienza di applicazione e training di Scrum in Mozambico.</p><p><a href=\"http://disi.unitn.it/~ciaghi/from_0_to_scrum/\" target=\"_blank\">Slides</a></p>",
+                "asset":{
+                    "media":"http://disi.unitn.it/~ciaghi/data/_uploaded/image/avatar_of_scotland.jpg",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+            {
+                "startDate":"2013,01,16",
+                "headline":"Method missing in Ruby",
+                "text":"<p><small>di Andrea Nodari</small></p><p>Method missing è uno strumento molto potente che ruby mette a dispone. Questa talk spiega portando alcuni esempi reali cosa è ecome può essere usato per semplificare e rendere elegante il nostro codice.</p><p><a href=\"http://nodo.github.com/presentations/method_missing.html\" target=\"_blank\">Slides</a></p>",
+                "asset":{
+                    "media":"https://fbcdn-profile-a.akamaihd.net/hprofile-ak-ash3/551018_4873829362675_1854429130_n.jpg",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+            {
+                "startDate":"2013,01,16",
+                "headline":"Signals in Django",
+                "text":"<p><small>di Roberto Bampi</small></p><p>A (very) short and quick introduction on the use of signals in django.</p><p><a href=\"https://speakerdeck.com/gigaroby/signals-in-django/\" target=\"_blank\">Slides</a></p>",
+                "asset":{
+                    "media":"https://lh6.googleusercontent.com/-FqAJliPoRog/Ti7Sv8oBfuI/AAAAAAAAADs/AWC_pX1a95E/s915/IMGP1453.jpg",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+            {
+                "startDate":"2013,01,16",
+                "headline":"Panoramica dell'ambiente .NET - Parte 1",
+                "text":"<p><small>di Lorenzo Dematté</small></p><p>Nella prima parte del talk vedremo cos'e' .NET: quali sono i componenti fondamentali che lo costituiscono, la sua storia, il modello di compilazione ed esecuzione che viene usato e le varie implementazioni, commerciali (Microsoft), opensource (Mono) e hardware (MicroFX e Netduino). Tramite un esempio, vedremo come vengano supportati diversi linguaggi (C# e F#), diversi paradigmi di programmazione (OO e funzionale) e come, tramite un linguaggio intermedio e dei metadati, il runtime riesca a integrare e gestire i diversi moduli .NET (gli \"assembly\").</p><p><a href=\"https://speakerdeck.com/ldematte/introduction-to-net\" target=\"_blank\">Slides</a></p>",
+                "asset":{
+                    "media":"http://img191.imageshack.us/img191/9044/24444520.png",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+            {
+                "startDate":"2013,01,16",
+                "headline":"Panoramica dell'ambiente .NET - Parte 2",
+                "text":"<p><small>di Michele Di Cosmo</small></p><p>Una velocissima introduzione ai componenti principali del framework .NET (WPF, WCF, WF e LINQ), al refactoring con Resharper di JetBrains e agli IDE Visual Studio e Expression Blend per la scrittura di codice e di interfacce grafiche.</p><p><a href=\"https://speakerdeck.com/micheledicosmo/introduzione-a-net-seconda-parte\" target=\"_blank\">Slides</a></p>",
+                "asset":{
+                    "media":"https://fbcdn-sphotos-g-a.akamaihd.net/hphotos-ak-prn1/527417_100490443449059_1526522412_n.jpg",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+            {
+                "startDate":"2013,02,06",
+                "headline":"Trip to FOSDEM 2013",
+                "text":"<p><small>di Alberto Buratti e Nicola Perantoni</small></p><p>Un breve resoconto dell'esperienza al <a target='_blank' href='http://2013.fosdem.org/'>FOSDEM 2013</a>, il meeting europeo del mondo open source tenutosi a Bruxelles</p><p><a target='_blank' href='http://www.youtube.com/watch?v=Bo-GjsbpLV4'>Video</a></p>",
+                "asset":{
+                    "media":"https://fbcdn-sphotos-h-a.akamaihd.net/hphotos-ak-ash4/481559_4815820146503_2116875025_n.jpg",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+            {
+                "startDate":"2013,02,06",
+                "headline":"Smashing the stack for fun and profit",
+                "text":"<p><small>di Federico Scrinzi</small></p><p>Spiegazione e dimostrazione pratica dello sfruttamento di un buffer overflow, prendendo come esempio i wargame di <a target='_blank' href='http://smashthestack.org'>SmashTheStack.org</a></p><p><a target='_blank' href='http://www.youtube.com/watch?v=8YEkCZ6swrc'>Video</a></p>",
+                "asset":{
+                    "media":"https://fbcdn-sphotos-d-a.akamaihd.net/hphotos-ak-ash3/555290_407348769348437_1283508834_n.jpg",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+            {
+                "startDate":"2013,03,21",
+                "headline":"trenta3dev @ ICT days",
+                "text":"<p>Roba da smanettoni: track dedicata agli sviluppatori all'interno degli <a target='_blank' href='http://2013.ictdays.it/it'>ICT days 2013</a>, in collaborazione con Università di Trento, Trento RISE e Fondazione Bruno Kessler.</p>",
+                "asset":{
+                    "media":"http://www.sanbaradio.it/files/50282_191647117607364_1020833476_n.jpg",
+                    "credit":"",
+                    "caption":""
+                }
+            }
+        ]
+    }
+}
