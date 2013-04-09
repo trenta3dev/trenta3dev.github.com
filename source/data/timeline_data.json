@@ -115,10 +115,50 @@
             },
             {
                 "startDate":"2013,03,21",
-                "headline":"trenta3dev @ ICT days",
-                "text":"<p>Roba da smanettoni: track dedicata agli sviluppatori all'interno degli <a target='_blank' href='http://2013.ictdays.it/it'>ICT days 2013</a>, in collaborazione con Università di Trento, Trento RISE e Fondazione Bruno Kessler.</p>",
+                "headline":"Introduzione allo sviluppo di applicazioni iOS",
+                "text":"<p><small>di Nicola Perantoni</small></p><p>Dall’oscura sintassi di Objective-C alla struttura di un’applicazione iOS: verranno illustrate le conoscenze di base necessarie per sviluppare un’applicazione per la piattaforma Apple, attraverso esempi che mostrano le potenzialità di questa piattaforma.</p><p><a target='_blank' href='http://www.facebook.com/l.php?u=https%3A%2F%2Fspeakerdeck.com%2Fnicofromspace%2Fict-days-2013-introduction-to-ios-application-development&h=QAQFiGmr9'>Slide</a><br><a target='_blank' href='http://youtu.be/tBgURweY6VM'>Video</a></p>",
                 "asset":{
-                    "media":"http://www.sanbaradio.it/files/50282_191647117607364_1020833476_n.jpg",
+                    "media":"http://fbcdn-sphotos-a-a.akamaihd.net/hphotos-ak-prn1/24653_10200726008493765_1205998456_n.jpg",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+            {
+                "startDate":"2013,03,21",
+                "headline":"L'open source come un servizio",
+                "text":"<p><small>di Gianluca Stivan</small></p><p>Nodejitsu è il popolare servizio di hosting per node.js, un framework per applicazioni JavaScript server-side in rapida ascesa e ampiamente utilizzato dalla comunità globale degli sviluppatori. I fondatori di questa ditta hanno contribuito a node.js fin dal principio, sviluppando il primo esempio di \"Platform As A Service\" attorno ad esso. Ma come funziona questa infrastruttura basata su software Open Source, e come riesce a sfruttare il potenziale nascosto di node.js?</p><p><a target='_blank' href='https://speakerdeck.com/yawnt/open-source-as-a-service'>Slide</a><br><a target='_blank' href='http://youtu.be/nJnjQCsg524'>Video</a></p>",
+                "asset":{
+                    "media":"",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+            {
+                "startDate":"2013,03,21",
+                "headline":"Lightning Talk: PyPy",
+                "text":"<p><small>di Stefano Parmesan</small></p><p>TODO-- descrizione qui--</p><p><a target='_blank' href='TODO'>Slide</a><br><a target='_blank' href='http://youtu.be/0jEkB5uoW0s'>Video</a></p>",
+                "asset":{
+                    "media":"",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+            {
+                "startDate":"2013,03,21",
+                "headline":"Lightning Talk: Vim Magic",
+                "text":"<p><small>di Michele Pittoni</small></p><p>Una rapida panoramica di alcuni comandi e plugin utili per non rimpiangere un editor più \"user friendly\".</p><p><a target='_blank' href='http://youtu.be/igm0pOiXais'>Video</a></p>",
+                "asset":{
+                    "media":"https://fbcdn-sphotos-e-a.akamaihd.net/hphotos-ak-frc1/892038_4797399209270_1515561154_o.jpg",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+            {
+                "startDate":"2013,03,21",
+                "headline":"Lightning Talk: Introduzione a Map-Reduce",
+                "text":"<p><small>di Davide Mottin</small></p><p>TODO-- descrizione qui--</p><p><a target='_blank' href='TODO'>Slide</a><br><a target='_blank' href='http://youtu.be/kVWCl49zkXA'>Video</a></p>",
+                "asset":{
+                    "media":"",
                     "credit":"",
                     "caption":""
                 }
