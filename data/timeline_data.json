@@ -182,6 +182,26 @@
                     "credit":"",
                     "caption":""
                 }
+            },
+            {
+                "startDate":"2013,05,09",
+                "headline":"Orrfuscation",
+                "text":"<p><small>di Mattia Larentis</small></p><p>Due chiacchiere sull'orrfuscation in javascript. Mai fidarsi delle pecore!</p><p><a target='_blank' href='https://speakerdeck.com/nostalgia/orrfuscation'>Slide</a></p>",
+                "asset":{
+                    "media":"https://fbcdn-sphotos-h-a.akamaihd.net/hphotos-ak-prn1/309166_4509220849290_782755426_n.jpg",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+            {
+                "startDate":"2013,05,09",
+                "headline":"La Sezione Aurea",
+                "text":"<p><small>di Nicola Perantoni</small></p><p>Una breve introduzione al concetto di Sezione Aurea con alcuni esempi che ne mostrano l'utilizzo.</p><p><a target='_blank' href='https://speakerdeck.com/nicofromspace/golden-ratio'>Slide</a></p>",
+                "asset":{
+                    "media":"https://fbcdn-sphotos-c-a.akamaihd.net/hphotos-ak-ash3/543133_10200711981103089_2045347241_n.jpg",
+                    "credit":"",
+                    "caption":""
+                }
             }
         ]
     }
