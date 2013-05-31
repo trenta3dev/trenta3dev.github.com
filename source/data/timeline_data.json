@@ -176,7 +176,7 @@
             {
                 "startDate":"2013,04,10",
                 "headline":"Scala",
-                "text":"<p><small>di Lorenzo Dematté</small></p><p><a target='_blank' href='http://www.youtube.com/watch?v=kSg4AR9Xf2M'>Video</a></p>",
+                "text":"<p><small>di Lorenzo Dematté</small><p>“An overview of the Scala programming language, focusing on differences with Java and in language novelties.”</p><p><a target='_blank' href='http://www.youtube.com/watch?v=kSg4AR9Xf2M'>Video</a></p><p><a target='_blank' href='http://www.slideshare.net/lorenzodematte/trenta3-dev2'>Slide</a></p>",
                 "asset":{
                     "media":"https://fbcdn-profile-a.akamaihd.net/hprofile-ak-ash3/547792_467470639930834_98277922_n.jpg",
                     "credit":"",
