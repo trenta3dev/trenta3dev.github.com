@@ -202,6 +202,26 @@
                     "credit":"",
                     "caption":""
                 }
+            },
+            {
+                "startDate":"2013,10,15",
+                "headline":"Quick intro to Go",
+                "text":"<p><small>di Roberto Bampi</small></p><p><!-- ABSTRACT --></p><p><a target='_blank' href='http://slid.es/gigaroby/golang'>Slide</a></p>",
+                "asset":{
+                    "media":"https://lh6.googleusercontent.com/-FqAJliPoRog/Ti7Sv8oBfuI/AAAAAAAAADs/AWC_pX1a95E/s915/IMGP1453.jpg",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+            {
+                "startDate":"2013,10,15",
+                "headline":"Fun with Elixir and the Erlang VM",
+                "text":"<p><small>di Gianluca Stivan</small></p><p>Introduction to Elixir, a metaprogramming friendly language that runs on the top of the Erlang VM.</p><p><a target='_blank' href='https://speakerdeck.com/yawnt/fun-with-elixir-and-the-erlang-vm'>Slide</a></p>",
+                "asset":{
+                    "media":"",
+                    "credit":"",
+                    "caption":""
+                }
             }
         ]
     }
