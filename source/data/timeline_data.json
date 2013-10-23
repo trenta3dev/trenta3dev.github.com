@@ -215,8 +215,18 @@
             },
             {
                 "startDate":"2013,10,15",
+                "headline":"mitmproxy",
+                "text":"<p><small>di Davide Setti</small></p><p><!-- ABSTRACT --></p><p><a target='_blank' href='http://youtu.be/J3P7mupjKt0'>Video</a></p>",
+                "asset":{
+                    "media":"https://fbcdn-sphotos-g-a.akamaihd.net/hphotos-ak-ash4/207944_1037420339573_9417_n.jpg",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+            {
+                "startDate":"2013,10,15",
                 "headline":"Fun with Elixir and the Erlang VM",
-                "text":"<p><small>di Gianluca Stivan</small></p><p>Introduction to Elixir, a metaprogramming friendly language that runs on the top of the Erlang VM.</p><p><a target='_blank' href='https://speakerdeck.com/yawnt/fun-with-elixir-and-the-erlang-vm'>Slide</a></p>",
+                "text":"<p><small>di Gianluca Stivan</small></p><p>Introduction to Elixir, a metaprogramming friendly language that runs on the top of the Erlang VM.</p><p><a target='_blank' href='https://speakerdeck.com/yawnt/fun-with-elixir-and-the-erlang-vm'>Slide</a> - <a target='_blank' href='http://youtu.be/_JcdzJcTbHg'>Video</a></p>",
                 "asset":{
                     "media":"https://0.gravatar.com/avatar/1d27f02822d73e2c64e87e14c45bffcc?d=https%3A%2F%2Fidenticons.github.com%2Fe150274f5a5a2c3e4892220f11f371c3.png&s=400",
                     "credit":"",
