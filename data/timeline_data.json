@@ -232,6 +232,16 @@
                     "credit":"",
                     "caption":""
                 }
+            },
+            {
+                "startDate":"2014,03,12",
+                "headline":"trenta3dev al museo",
+                "text":"<p>Incontro speciale di trenta3dev, questa volta siamo ospiti al MUSE - Museo delle Scienze di Trento.<br>Vi aspettiamo dalle 19 in poi!</p><p><a target='_blank' href='https://goo.gl/maps/PELN3'>Maps</a> - <a target='_blank' href='https://www.facebook.com/events/726125497407216/'>Facebook</a></p>",
+                "asset":{
+                    "media":"https://fbcdn-sphotos-d-a.akamaihd.net/hphotos-ak-ash4/t1/1013304_10202322783944674_1241065608_n.jpg",
+                    "credit":"",
+                    "caption":""
+                }
             }
         ]
     }
