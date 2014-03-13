@@ -242,6 +242,26 @@
                     "credit":"",
                     "caption":""
                 }
+            },
+            {
+                "startDate":"2014,03,12",
+                "headline":"Map-Reduce & beyond",
+                "text":"<p><small>di Davide Mottin</small></p><p><a target='_blank' href='https://www.dropbox.com/s/seuvt191i51wb6g/MapReducePresentation.pptx'>Slide</a>",
+                "asset":{
+                    "media":"",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+            {
+                "startDate":"2014,03,12",
+                "headline":"Angular.js & SPA",
+                "text":"<p><small>di Lorenzo Dematté</small></p><p>Una rapida introduzione ad Angular.js, framework per creare Single Page Applications<p><a target='_blank' href='http://www.slideshare.net/lorenzodematte/angular-32275964'>Slide</a> - <a target='_blank' href='https://db.tt/Z05qGp0c'>Esempi</a>",
+                "asset":{
+                    "media":"https://fbcdn-profile-a.akamaihd.net/hprofile-ak-ash3/547792_467470639930834_98277922_n.jpg",
+                    "credit":"",
+                    "caption":""
+                }
             }
         ]
     }
